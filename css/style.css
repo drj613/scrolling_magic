@@ -59,3 +59,19 @@ p {
     margin-top: 90px;
 
 }
+
+#info2 {
+    margin: 20px 0 60px;
+}
+
+#contact{
+    background: url('../img/image3.png');
+    padding: 40px;
+    color: white;
+    border-top: darkgray 7px solid;
+    border-bottom: darkgray 7px solid;
+}
+
+footer{
+    padding: 30px;
+}
